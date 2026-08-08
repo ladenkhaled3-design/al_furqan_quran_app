@@ -80,10 +80,10 @@ lib/
 ### 2. استنساخ المشروع وتثبيت التبعيات
 ```bash
 # 1. استنساخ المستودع
-git clone https://github.com/USERNAME/quran_app.git
+git clone https://github.com/ladenkhaled3-design/al_furqan_quran_app.git
 
 # 2. الدخول لمجلد المشروع
-cd quran_app
+cd al_furqan_quran_app
 
 # 3. تثبيت حزم البرمجة
 flutter pub get
